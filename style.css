@@ -410,6 +410,7 @@ progress::-ms-fill {
   footer{
     height: 30px;
     background-color: #ffffff;
+      color:#4f09e5;
     align-items: center;
     justify-content: center;
     padding-bottom: 2px;
